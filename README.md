@@ -1,6 +1,7 @@
 This is a list of podcasts that are worthwhile, YMMV.
 Contributors:
 * Paul Tinsley
+* Eduardo Ariño de la Rubia
 
 (Categories come from the podcast top-level category, not my organizational scheme)
 # Arts
@@ -15,6 +16,11 @@ Contributors:
 
 # Careers
 * [Ruby Rogues](https://devchat.tv/ruby-rogues/) - A weekly discussion by Ruby developers about programming, life and careers.
+
+# Data Science
+* [Partially Derivative](http://www.partiallyderivative.com/) - Partially Derivative is a podcast about the data of everything. Each week we look at a new way that data has changed how we understand and experience the world. From ancient warfare to modern love and everything in between.
+* [Data Skeptic](http://dataskeptic.com/) - Data Skeptic is a podcast that alternates between short mini episodes with the host explaining concepts from data science to his non-data scientist wife, and longer interviews featuring practitioners and experts on interesting topics related to data, all through the eye of scientific skepticism.
+* [Not So Standard Deviations](https://soundcloud.com/nssd-podcast) - Roger Peng and Hilary Parker's fantastic data science podcast.
 
 # Education
 * [Surprisingly Awesome](https://gimletmedia.com/show/surprisingly-awesome/) - A new show hosted by Adams Davidson and McKay that reveals the hidden awesomeness in everyday things/
